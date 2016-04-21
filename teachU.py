@@ -17,3 +17,6 @@ def SumUpBallballz(InputAClass):
   SumUp = Sballball_01+Sballball_02+Sballball_03
 
   return SumUp  
+
+print SumUpBallballz(Sballball)
+# output should be 6
