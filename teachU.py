@@ -15,4 +15,5 @@ def SumUpBallballz(InputAClass):
   Sballball_03 = InputAClass.red
   
   SumUp = Sballball_01+Sballball_02+Sballball_03
-  
+
+  return SumUp  
